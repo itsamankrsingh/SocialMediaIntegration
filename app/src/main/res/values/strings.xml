@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">FacebookSignIn</string>
+
+    <string name="facebook_app_id">1556801884663355</string>
+    <string name="fb_login_protocol_scheme">fb1556801884663355</string>
+    <string name="title_activity_welcome">WelcomeActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sign_in_with_facebook">Sign In With Facebook</string>
+    <string name="sign_in_with_google">Sign In With Google</string>
+    <string name="title_activity_facebook_login">FacebookLoginActivity</string>
+    <string name="title_activity_google_login">GoogleLoginActivity</string>
+
+    <string name="name">Name</string>
+    <string name="email_address">Email address</string>
+    <string name="sign_out">Sign out</string>
+    <string name="example">Example</string>
+
+</resources>
